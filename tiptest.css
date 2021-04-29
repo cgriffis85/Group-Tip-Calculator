@@ -3,8 +3,8 @@
 
 
 html {
-    background-color: #013982;
-    font-family: 'Ubuntu Condensed', sans-serif;
+    background-color: #A31621;
+    font-family: 'Merriweather', serif;
   }
   p{
     font-size: 1.2em;
@@ -19,8 +19,8 @@ html {
   
   H1 {
     text-align: center;
-    color: white;
-    background-color: #000;
+    color: black;
+    background-color: white;
     padding: 5px;
     border-radius: 25px 25px 0px 0px;
   }
@@ -57,7 +57,8 @@ html {
     margin: 30px auto;
     border-radius: 25px;
     color: white;
-    background-color: #7299cc;
+    background-color: #A31621;
+    
   }
   
   #totalArea {
